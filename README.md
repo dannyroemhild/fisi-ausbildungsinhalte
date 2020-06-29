@@ -1,4 +1,4 @@
-# fisi-ausbildungsinhalte
+# Fachinformatiker Systemintegration Ausbildungsinhalte
 Sammlung von Ausbildungsinhalte für den Beruf Fachinformatiker Fachrichtung Systemintegration (und mehr)
 
 Diese Sammlung soll mit der Zeit wachsen und alle wesentlichen Ausbildungsinhalte zum Fachinformatiker Fachrichtung Systemintegration abdecken.

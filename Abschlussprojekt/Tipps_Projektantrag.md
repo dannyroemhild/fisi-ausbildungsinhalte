@@ -11,9 +11,9 @@ Dies ist in der "Verordnung über die Berufsausbildung im Bereich der Information
 
 Da es inhaltlich um 
 
-* a) Realisieren und Anpassen eines komplexen Systems der Informations- und Telekommunikationstechnik einschließlich Anforderungsanalyse, Planung, Angebotserstellung, Inbetriebnahme und Übergabe,
+* Realisieren und Anpassen eines komplexen Systems der Informations- und Telekommunikationstechnik einschließlich Anforderungsanalyse, Planung, Angebotserstellung, Inbetriebnahme und Übergabe,
 
-* b) Erweitern eines komplexen Systems der Informations- und Telekommunikationstechnik sowie Einbinden von Komponenten in das Gesamtsystem unter Berücksichtigung organisatorischer und logistischer Aspekte einschließlich Anforderungsanalyse,
+* Erweitern eines komplexen Systems der Informations- und Telekommunikationstechnik sowie Einbinden von Komponenten in das Gesamtsystem unter Berücksichtigung organisatorischer und logistischer Aspekte einschließlich Anforderungsanalyse,
 Planung, Angebotserstellung, Inbetriebnahme und Übergabe. 
 
 geht, muss die Durchführung auch zeitlich den Großteil ( ca 50%) des Projekts einnehmen.

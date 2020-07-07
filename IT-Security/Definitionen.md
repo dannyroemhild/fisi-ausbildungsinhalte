@@ -1,13 +1,13 @@
-###Kryptologie:
+### Kryptologie:
 
 Wissenschaft der Ver- und Entschlüsselung von Informationen
 
 
-###Kryptographie: 
+### Kryptographie: 
 
 Ver- und Entschlüsseln sowie das Bereitstellen verschiedener Verfahren
 
 
-###Krypto Analyse:
+### Krypto Analyse:
 
 Analyse Kryptographischer Verfahren

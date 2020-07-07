@@ -2,9 +2,12 @@
 
 Hier ein paar Beiträge, in denen das Kommunikationsquadrat von Schulz von Thun genauer erklärt wird.
 
-## Websites
+## Website - Schulz von Thun Insitut
 
 https://www.schulz-von-thun.de/die-modelle/das-kommunikationsquadrat
+
+## Website - Wikipedia Beitrag
+
 https://de.wikipedia.org/wiki/Vier-Seiten-Modell
 
 

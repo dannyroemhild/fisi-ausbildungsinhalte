@@ -10,8 +10,10 @@ https://research.checkpoint.com/2020/resolving-your-way-into-domain-admin-exploi
 
 https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1350 
 
-## Disclosure Timeline
-* 19 May 2020 – Initial report to Microsoft.
-* 18 Jun 2020 – Microsoft issued CVE-2020-1350 to this vulnerability.
-* 09 Jul 2020 – Microsoft acknowledged this issue as a wormable, critical vulnerability with a CVSS score of 10.0.
-* 14 Jul 2020 – Microsoft released a fix (Patch Tuesday).
+## Timeline
+* 24 April 2003 - das älteste, von der Schwachstelle betroffene Betriebssystem (Windows Server 2003) wird von Microsoft veröffentlicht
+* 17 Jahre bleibt die Schwachstelle offenbar unentdeckt bzw. konnte ausgenutzt werden
+* 19 Mai 2020 – Initiale Meldung des Schwachstellenfund durch Checkpoint an Microsoft
+* 18 Juni 2020 – Microsoft vergibt CVE-2020-1350 für diese Schwachstelle
+* 09 Juli 2020 – Microsoft bestätigt die Entdeckung als wurmfähige (wormable), kritische Schwachstelle mit einem CVSS score von 10.0
+* 14 Juli 2020 – Microsoft veröffentlicht einen Fix zum "Patch Tuesday"

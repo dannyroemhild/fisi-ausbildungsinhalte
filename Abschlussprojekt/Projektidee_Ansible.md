@@ -8,9 +8,21 @@ Beispielsweise: Ansible, Puppet, Chef
 
 Zur Automatisierung wiederkehrender Konfigurations- aber auch Administrationsaufgaben soll ein entsprechendes Tool eingeführt werden.
 
-Die Tools Ansible, Puppet, Chef sind kostenfrei und können neben Linux- auch Windows Administrationsaufgaben automatisieren.
+Die Tools Ansible, Puppet, Chef sind Open Source und können neben Linux- auch (mehr oder weniger umfangreich) Windows Administrationsaufgaben automatisieren.
 
 # Quellen zur Recherche
+
+## Offizielle Ansible Dokumentation
+
+https://docs.ansible.com/
+
+## Offizielle Puppet Internetpräsenz
+
+https://puppet.com/open-source/#osp
+
+## Offizielle Chef Internetpräsenz
+
+https://www.chef.io/
 
 ## Artikel von FrankysWeb.de zur Automatisierung von Administrationsaufgaben an Windows Servern am Beispiel von Windows Updates 
 

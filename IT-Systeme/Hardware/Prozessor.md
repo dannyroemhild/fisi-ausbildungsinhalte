@@ -1,7 +1,0 @@
-# Prozessoren
-
-## Intel
-
-## AMD
-
-## ARM

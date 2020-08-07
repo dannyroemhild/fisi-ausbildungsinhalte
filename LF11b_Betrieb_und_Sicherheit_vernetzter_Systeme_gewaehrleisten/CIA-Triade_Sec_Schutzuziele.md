@@ -33,7 +33,7 @@ Eine große Rolle spielt Authentizität auch beim Zugang zu IT-Systemen und Anwe
 
 Weitere Details und Informationen können in den Quellen und Links Abgerufen werden.
 
-Quellen und Links:
+### Quellen und Links:
 
 https://www.eosgmbh.de/schutzziele-cia-und-ciaa
 https://www.kryptowissen.de/schutzziele.php

@@ -9,8 +9,7 @@ Die Schülerinnen und Schüler informieren sich, auch anhand des Unternehmenslei
 
 Sie analysieren die Marktstruktur in ihrer Branche und ordnen das Unternehmen als komplexes System mit seinen Markt- und Kundenbeziehungen ein. Sie beschreiben die Wertschöpfungskette und ihre eigene Rolle im Betrieb.
 
-Dabei erkunden sie die Leistungsschwerpunkte sowie Besonderheiten ihres Unternehmens und setzen sich mit der Organisationsstruktur (Aufbauorganisation) und Rechtsform auseinander. Sie informieren sich über den eigenen Handlungs- und Entscheidungsspielraum im
-Unternehmen (Vollmachten) sowie über Fort- und Weiterbildungsmaßnahmen.
+Dabei erkunden sie die Leistungsschwerpunkte sowie Besonderheiten ihres Unternehmens und setzen sich mit der Organisationsstruktur (Aufbauorganisation) und Rechtsform auseinander. Sie informieren sich über den eigenen Handlungs- und Entscheidungsspielraum im Unternehmen (Vollmachten) sowie über Fort- und Weiterbildungsmaßnahmen.
 
 Sie planen und erstellen, auch im Team, adressatengerecht multimediale Darstellungen zu ihrem Unternehmen.
 

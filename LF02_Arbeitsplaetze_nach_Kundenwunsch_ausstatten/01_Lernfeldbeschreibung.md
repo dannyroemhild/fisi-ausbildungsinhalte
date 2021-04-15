@@ -22,6 +22,9 @@ Auf Basis der ausgewählten Produkte und Lieferanten erstellen sie mit vorgegebe
 Sie schließen den Kaufvertrag ab und organisieren den Beschaffungsprozess unter Berücksichtigung von Lieferzeiten. Sie nehmen die bestellten Komponenten in Empfang und dokumentieren dabei festgestellte Mängel.
 
 Sie bereiten die Übergabe der beschafften Produkte vor, integrieren IT-Komponenten, konfigurieren diese und nehmen sie unter Berücksichtigung der Arbeitssicherheit in Betrieb.
+
 Sie übergeben den Arbeitsplatz an die Kunden und erstellen ein Übergabeprotokoll.
+
 Sie bewerten die Durchführung des Kundenauftrags und reflektieren ihr Vorgehen.
+
 Dabei berücksichtigen sie die Kundenzufriedenheit und formulieren Verbesserungsvorschläge. 

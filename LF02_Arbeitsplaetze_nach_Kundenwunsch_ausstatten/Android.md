@@ -4,6 +4,10 @@
 
 https://de.wikipedia.org/wiki/Android_(Betriebssystem)
 
+## Android One
+
+https://de.wikipedia.org/wiki/Android_One
+
 ## LineageOS Android Distribution
 
 Ein freies und Open-Source Betriebssystem für unterschiedliche Geräte basierend auf der Android Mobile Platform.

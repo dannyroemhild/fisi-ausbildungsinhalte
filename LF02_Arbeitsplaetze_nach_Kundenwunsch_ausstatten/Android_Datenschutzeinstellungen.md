@@ -10,6 +10,8 @@ Blokade ist eine freie und Open-Source App, welche systemweit Werbung und Tracke
 
 https://blokada.org/
 
+https://www.youtube.com/watch?v=H8Z2M2Qecz4
+
 https://www.kuketz-blog.de/blokada-tracking-und-werbung-unter-android-unterbinden/
 
 

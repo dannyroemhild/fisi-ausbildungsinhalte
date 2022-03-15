@@ -10,7 +10,6 @@ https://www.schulz-von-thun.de/die-modelle/das-kommunikationsquadrat
 
 https://de.wikipedia.org/wiki/Vier-Seiten-Modell
 
-
 ## Youtube
 
 https://www.youtube.com/watch?v=9VJn1cPbf1A

@@ -13,3 +13,7 @@ https://de.wikipedia.org/wiki/Domain_Name_System#Aufbau_der_DNS-Datenbank
 - Windows CMD: **nslookup**
 - Linux: **nslookup**
 - plattformübergreifen Powershell: **Resolve-DNSName**
+
+## Online-Dienste zur (spezifischen) Namensauflösung
+
+MX-Einträge und vieles mehr prüfen: https://mxtoolbox.com/

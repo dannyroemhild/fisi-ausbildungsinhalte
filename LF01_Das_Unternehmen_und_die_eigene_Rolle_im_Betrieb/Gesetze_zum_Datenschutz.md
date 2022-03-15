@@ -11,5 +11,3 @@ https://www.bmjv.de/DE/Themen/FokusThemen/DSGVO/DSVGO_node.html
 ## Landesdatenschutzgesetze
 
 https://www.datenschutz-wiki.de/Landesdatenschutzgesetze
-
-
